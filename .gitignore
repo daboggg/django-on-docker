@@ -1,3 +1,6 @@
 .idea
 .env.prod
 .env.prod.db
+venv
+app/upload/migrations
+app/mediafiles
